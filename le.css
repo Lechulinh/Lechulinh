@@ -1,0 +1,42 @@
+h1 {
+    color: #e62727;
+    text-align: center;
+    font-family: 'Red Rose', cursive;
+    font-size: 50px;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+}
+
+.DOB {
+    color: orange
+}
+
+.school {
+    color: blue
+}
+
+.Hobby {
+    color: green
+}
+
+p {
+    text-align: center;
+    color: rgb(196, 236, 16)
+}
+
+img {
+    margin-left: 38%;
+}
+
+body {
+    background-image: url(https://cdn.wallpapersafari.com/21/89/VLtgGu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+hr{
+    background-color: #bb0a0a;
+    height: 10px;
+}
